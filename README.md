@@ -1,2 +1,0 @@
-# Jenkins
-First test pipeline
